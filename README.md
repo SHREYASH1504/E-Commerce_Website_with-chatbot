@@ -48,8 +48,6 @@ text
 git clone https://github.com/SHREYASH1504/E-Commerce_Website_with-chatbot.git
 cd E-commerce-Website
 
-text
-
 2. **Backend Setup**
 
 cd back-end
@@ -58,7 +56,6 @@ npm install
 Create a .env file for environment variables (e.g. MongoDB URI, JWT secret)
 npm start
 
-text
 
 3. **Frontend Setup**
 
@@ -68,7 +65,6 @@ npm install
 Create a .env file for frontend environment variables if needed
 npm start
 
-text
 
 4. **Admin Panel Setup**
 
@@ -76,7 +72,6 @@ cd admin/admin_panel
 npm install
 npm start
 
-text
 
 ---
 
