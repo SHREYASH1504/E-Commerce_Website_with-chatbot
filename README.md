@@ -45,7 +45,7 @@ text
 
 1. **Clone the repository**
 
-git clone https://github.com/OmkarN14216/E-commerce-Website.git
+git clone https://github.com/SHREYASH1504/E-Commerce_Website_with-chatbot.git
 cd E-commerce-Website
 
 text
